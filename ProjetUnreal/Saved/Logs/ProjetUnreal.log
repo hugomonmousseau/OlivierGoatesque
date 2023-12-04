@@ -7500,3 +7500,229 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.04-08.43.43:567][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
 [2023.12.04-08.43.43:586][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
 [2023.12.04-08.43.43:705][570]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.12.04-09.00.44:354][836]LogContentBrowser: Deferred new asset file creation: BP_BaseInteractable_Child
+[2023.12.04-09.00.44:404][836]LogContentBrowser: Creating deferred item: BP_BaseInteractable_Child
+[2023.12.04-09.00.44:446][837]LogContentBrowser: Renaming the item being created (Deferred Item: BP_BaseInteractable_Child).
+[2023.12.04-09.01.03:562][700]LogContentBrowser: Attempting asset rename: BP_BaseInteractable_Child -> BP_Toiles
+[2023.12.04-09.01.03:998][700]LogContentBrowser: End creating deferred item BP_BaseInteractable_Child
+[2023.12.04-09.01.07:446][858]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CustomBP/BP_Toiles.BP_Toiles
+[2023.12.04-09.01.07:448][858]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-09.01.07:448][858]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-09.01.07:813][858]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2023.12.04-09.01.20:093][293]LogSlate: Took 0.041974 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.04-09.01.30:132][679]LogViewport: Scene viewport resized to 702x446, mode Windowed.
+[2023.12.04-09.01.32:109][680]LogAutomationController: Ignoring very large delta of 2.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.04-09.01.42:526][ 73]LogViewport: Scene viewport resized to 562x861, mode Windowed.
+[2023.12.04-09.01.59:219][679]LogViewport: Scene viewport resized to 987x375, mode Windowed.
+[2023.12.04-09.02.00:013][679]LogViewport: Scene viewport resized to 733x575, mode Windowed.
+[2023.12.04-09.02.39:093][374]LogStaticMesh: Display: Building static mesh SM_Prop_Stall_Cloth_01...
+[2023.12.04-09.02.39:471][374]LogStaticMesh: Built static mesh [0.38s] /Game/PolygonPirates_4_14/Content/PolygonPirates/Meshes/Props/SM_Prop_Stall_Cloth_01.SM_Prop_Stall_Cloth_01
+[2023.12.04-09.02.42:376][400]LogAutomationController: Ignoring very large delta of 2.34 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.04-09.02.45:969][562]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2023.12.04-09.03.47:247][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.12.04-09.03.47:249][386]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LVL_LD' took 0.023
+[2023.12.04-09.03.47:250][386]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomBP/BP_Toiles] ([2] browsable assets)...
+[2023.12.04-09.03.47:250][386]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-09.03.47:281][386]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomBP/BP_Toiles.BP_Toiles]
+[2023.12.04-09.03.47:281][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomBP/BP_Toiles]
+[2023.12.04-09.03.47:611][386]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CustomBP/BP_Toiles_Auto4
+[2023.12.04-09.03.47:611][386]LogSavePackage: Moving '../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Saved/BP_Toiles_Auto4B2D08CD540F9523049A3ED92D90BD36B.tmp' to '../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Saved/Autosaves/Game/CustomBP/BP_Toiles_Auto4.uasset'
+[2023.12.04-09.03.47:614][386]LogFileHelpers: Auto-saving content packages took 0.364
+[2023.12.04-09.05.28:605][136]LogWindows: LaunchURL https://docs.unrealengine.com/5.3/fr/Engine/Physics/Collision?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2023.12.04-09.09.16:219][623]LogDialogs: Warning: Suppressed: Variable SecondMesh is in use! Do you really want to delete it?
+[2023.12.04-09.09.22:176][958]BlueprintLog: New page: Compile BP_Toiles
+[2023.12.04-09.09.22:219][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.12.04-09.09.24:009][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-09.09.24:131][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomBP/BP_Toiles" FILE="../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Content/CustomBP/BP_Toiles.uasset" SILENT=true
+[2023.12.04-09.09.24:137][ 60]LogSavePackage: Moving output files for package: /Game/CustomBP/BP_Toiles
+[2023.12.04-09.09.24:137][ 60]LogSavePackage: Moving '../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Saved/BP_ToilesCC05B2CC4CB256E3C3F27F88F20D6671.tmp' to '../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Content/CustomBP/BP_Toiles.uasset'
+[2023.12.04-09.09.24:278][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 269 ms (total: 11.4 sec)
+[2023.12.04-09.09.24:287][ 60]AssetCheck: New page: Asset Save: BP_Toiles
+[2023.12.04-09.09.24:287][ 60]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CustomBP/BP_Toiles.BP_Toiles
+[2023.12.04-09.09.29:726][372]LogViewport: Scene viewport resized to 1485x579, mode Windowed.
+[2023.12.04-09.09.36:933][671]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CustomBP/BP_Toiles.BP_Toiles_C
+[2023.12.04-09.09.36:953][671]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CustomBP/BP_Toiles.BP_Toiles_C
+[2023.12.04-09.09.37:061][671]LogActorFactory: Actor Factory spawned Blueprint /Game/CustomBP/BP_Toiles.BP_Toiles as actor: BP_Toiles_C /Game/Levels/LVL_LD.LVL_LD:PersistentLevel.BP_Toiles_C_0
+[2023.12.04-09.09.37:072][671]LogActorFactory: Actor Factory spawned Blueprint /Game/CustomBP/BP_Toiles.BP_Toiles as actor: BP_Toiles_C /Game/Levels/LVL_LD.LVL_LD:PersistentLevel.BP_Toiles_C_0
+[2023.12.04-09.09.37:602][689]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CustomBP/BP_Toiles.BP_Toiles_C
+[2023.12.04-09.09.37:602][689]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CustomBP/BP_Toiles.BP_Toiles_C
+[2023.12.04-09.09.37:606][689]LogActorFactory: Actor Factory spawned Blueprint /Game/CustomBP/BP_Toiles.BP_Toiles as actor: BP_Toiles_C /Game/Levels/LVL_LD.LVL_LD:PersistentLevel.BP_Toiles_C_1
+[2023.12.04-09.09.37:608][689]LogActorFactory: Actor Factory spawned Blueprint /Game/CustomBP/BP_Toiles.BP_Toiles as actor: BP_Toiles_C /Game/Levels/LVL_LD.LVL_LD:PersistentLevel.BP_Toiles_C_1
+[2023.12.04-09.09.51:208][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-09.09.51:343][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomBP/BP_Toiles" FILE="../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Content/CustomBP/BP_Toiles.uasset" SILENT=true
+[2023.12.04-09.09.51:350][149]LogSavePackage: Moving output files for package: /Game/CustomBP/BP_Toiles
+[2023.12.04-09.09.51:351][149]LogSavePackage: Moving '../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Saved/BP_ToilesCD494E7D427FF26F69C324909F26A7E4.tmp' to '../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Content/CustomBP/BP_Toiles.uasset'
+[2023.12.04-09.09.51:369][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 11.6 sec)
+[2023.12.04-09.09.51:371][149]AssetCheck: New page: Asset Save: BP_Toiles
+[2023.12.04-09.09.51:371][149]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CustomBP/BP_Toiles.BP_Toiles
+[2023.12.04-09.10.13:609][133]BlueprintLog: New page: Compile BP_Toiles
+[2023.12.04-09.10.13:660][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.12.04-09.10.15:139][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-09.10.15:264][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomBP/BP_Toiles" FILE="../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Content/CustomBP/BP_Toiles.uasset" SILENT=true
+[2023.12.04-09.10.15:269][191]LogSavePackage: Moving output files for package: /Game/CustomBP/BP_Toiles
+[2023.12.04-09.10.15:270][191]LogSavePackage: Moving '../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Saved/BP_ToilesB6EA11C04E6F27467C89498EA8266B3E.tmp' to '../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Content/CustomBP/BP_Toiles.uasset'
+[2023.12.04-09.10.15:285][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 11.7 sec)
+[2023.12.04-09.10.15:286][191]AssetCheck: New page: Asset Save: BP_Toiles
+[2023.12.04-09.10.15:286][191]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CustomBP/BP_Toiles.BP_Toiles
+[2023.12.04-09.10.43:697][426]LogStaticMesh: Display: Building static mesh SM_Prop_Grave_03...
+[2023.12.04-09.10.43:703][426]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonPirates_4_14/Content/PolygonPirates/Meshes/Props/SM_Prop_Grave_03.SM_Prop_Grave_03
+[2023.12.04-09.10.46:206][531]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.12.04-09.10.46:220][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-09.10.46:220][531]PIE: New page: PIE session: LVL_LD (4 déc. 2023 à 11:10:46)
+[2023.12.04-09.10.46:220][531]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_LD
+[2023.12.04-09.10.46:301][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080376s)
+[2023.12.04-09.10.46:301][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_LD.LVL_LD to /Game/Levels/UEDPIE_0_LVL_LD.LVL_LD (0.080420s)
+[2023.12.04-09.10.46:336][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.12.04-09.10.46:340][531]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-09.10.46:369][531]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-09.10.46:370][531]LogAIModule: Creating AISystem for world LVL_LD
+[2023.12.04-09.10.46:372][531]LogPlayLevel: PIE: World Init took: (0.032639s)
+[2023.12.04-09.10.46:372][531]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2023.12.04-09.10.46:372][531]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-09.10.46:372][531]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-09.10.46:372][531]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-09.10.46:372][531]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-09.10.46:372][531]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-09.10.46:372][531]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.04-09.10.46:372][531]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-09.10.46:372][531]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-09.10.46:375][531]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-09.10.46:375][531]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-09.10.46:375][531]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-09.10.46:380][531]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-09.10.46:423][531]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.12.04-09.10.46:424][531]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-09.10.46:424][531]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-09.10.46:424][531]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-09.10.46:425][531]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2023.12.04-09.10.46:425][531]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2023.12.04-09.10.46:427][531]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2023.12.04-09.10.46:427][531]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2023.12.04-09.10.46:427][531]LogInit: FAudioDevice initialized with ID 47.
+[2023.12.04-09.10.46:427][531]LogAudio: Display: Audio Device (ID: 47) registered with world 'LVL_LD'.
+[2023.12.04-09.10.46:427][531]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2023.12.04-09.10.46:474][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-09.10.46:474][531]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.04-09.10.46:536][531]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_LD.LVL_LD up for play (max tick rate 60) at 2023.12.04-10.10.46
+[2023.12.04-09.10.46:537][531]LogWorld: Bringing up level for play took: 0.062629
+[2023.12.04-09.10.46:541][531]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2023.12.04-09.10.46:549][531]PIE: Server logged in
+[2023.12.04-09.10.46:552][531]PIE: Play in editor total start time 0,337 seconds.
+[2023.12.04-09.10.46:626][531]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.12.04-09.10.53:835][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-09.10.53:835][722]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_LD
+[2023.12.04-09.10.53:836][722]LogSlate: Window 'ProjetUnreal Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.04-09.10.53:846][722]LogWorld: UWorld::CleanupWorld for LVL_LD, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-09.10.53:854][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-09.10.53:862][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-09.10.53:872][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-09.10.53:903][722]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2023.12.04-09.10.53:903][722]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2023.12.04-09.10.53:904][722]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2023.12.04-09.10.53:926][722]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.12.04-09.10.54:042][723]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2023.12.04-09.14.52:027][846]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.12.04-09.14.52:100][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.12.04-09.14.54:304][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-09.14.54:429][914]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.12.04-09.14.54:429][914]LogSavePackage: Moving '../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Saved/BP_FirstPersonCharacterF2909BA846B40B5F9012B79EFF301CA2.tmp' to '../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.12.04-09.14.54:444][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 11.8 sec)
+[2023.12.04-09.14.54:446][914]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.12.04-09.14.54:446][914]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.12.04-09.15.26:967][203]LogDerivedDataCache: C:/Users/HugoM/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.142 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 886 files in 1556 folders with total size 42 MiB.
+[2023.12.04-09.15.36:981][625]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.12.04-09.15.37:059][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.12.04-09.15.37:819][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-09.15.37:958][642]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.12.04-09.15.37:959][642]LogSavePackage: Moving '../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Saved/BP_FirstPersonCharacterB6895E7040D4AE597D94B48DDD1138A8.tmp' to '../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.12.04-09.15.37:972][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 12.0 sec)
+[2023.12.04-09.15.37:975][642]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.12.04-09.15.37:975][642]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.12.04-09.17.15:892][476]BlueprintLog: New page: Compile BP_Toiles
+[2023.12.04-09.17.15:945][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.12.04-09.17.16:776][505]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-09.17.16:913][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomBP/BP_Toiles" FILE="../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Content/CustomBP/BP_Toiles.uasset" SILENT=true
+[2023.12.04-09.17.16:920][505]LogSavePackage: Moving output files for package: /Game/CustomBP/BP_Toiles
+[2023.12.04-09.17.16:921][505]LogSavePackage: Moving '../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Saved/BP_Toiles809472BB4A47426E95E8388E12E98AD2.tmp' to '../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Content/CustomBP/BP_Toiles.uasset'
+[2023.12.04-09.17.16:934][505]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 12.2 sec)
+[2023.12.04-09.17.16:936][505]AssetCheck: New page: Asset Save: BP_Toiles
+[2023.12.04-09.17.16:937][505]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CustomBP/BP_Toiles.BP_Toiles
+[2023.12.04-09.17.42:037][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.12.04-09.17.42:279][570]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/LVL_LD_Auto5
+[2023.12.04-09.17.42:280][570]LogSavePackage: Moving '../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Saved/LVL_LD_Auto557737040429F7A4F97804CBE035E9DA9.tmp' to '../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Saved/Autosaves/Game/Levels/LVL_LD_Auto5.umap'
+[2023.12.04-09.17.42:392][570]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Saved/Autosaves/Game/Levels/LVL_LD_Auto5.umap is in the /Temp path, will not scan.
+[2023.12.04-09.17.42:393][570]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LVL_LD' took 0.376
+[2023.12.04-09.17.42:394][570]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.376
+[2023.12.04-09.18.17:169][ 24]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.12.04-09.18.17:179][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-09.18.17:179][ 24]PIE: New page: PIE session: LVL_LD (4 déc. 2023 à 11:18:17)
+[2023.12.04-09.18.17:179][ 24]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_LD
+[2023.12.04-09.18.17:258][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078581s)
+[2023.12.04-09.18.17:258][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_LD.LVL_LD to /Game/Levels/UEDPIE_0_LVL_LD.LVL_LD (0.078628s)
+[2023.12.04-09.18.17:281][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.12.04-09.18.17:283][ 24]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-09.18.17:283][ 24]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-09.18.17:284][ 24]LogAIModule: Creating AISystem for world LVL_LD
+[2023.12.04-09.18.17:285][ 24]LogPlayLevel: PIE: World Init took: (0.002039s)
+[2023.12.04-09.18.17:285][ 24]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2023.12.04-09.18.17:285][ 24]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-09.18.17:285][ 24]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-09.18.17:285][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-09.18.17:285][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-09.18.17:285][ 24]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.04-09.18.17:285][ 24]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.04-09.18.17:285][ 24]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.04-09.18.17:285][ 24]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-09.18.17:286][ 24]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-09.18.17:286][ 24]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-09.18.17:286][ 24]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-09.18.17:288][ 24]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-09.18.17:327][ 24]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2023.12.04-09.18.17:327][ 24]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-09.18.17:328][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-09.18.17:328][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-09.18.17:333][ 24]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2023.12.04-09.18.17:333][ 24]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2023.12.04-09.18.17:336][ 24]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2023.12.04-09.18.17:336][ 24]LogInit: FAudioDevice initialized with ID 48.
+[2023.12.04-09.18.17:336][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2023.12.04-09.18.17:336][ 24]LogAudio: Display: Audio Device (ID: 48) registered with world 'LVL_LD'.
+[2023.12.04-09.18.17:336][ 24]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2023.12.04-09.18.17:388][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-09.18.17:388][ 24]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.04-09.18.17:470][ 24]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_LD.LVL_LD up for play (max tick rate 60) at 2023.12.04-10.18.17
+[2023.12.04-09.18.17:471][ 24]LogWorld: Bringing up level for play took: 0.082450
+[2023.12.04-09.18.17:476][ 24]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2023.12.04-09.18.17:484][ 24]PIE: Server logged in
+[2023.12.04-09.18.17:489][ 24]PIE: Play in editor total start time 0,311 seconds.
+[2023.12.04-09.18.17:544][ 24]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.12.04-09.20.38:308][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-09.20.38:308][927]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_LD
+[2023.12.04-09.20.38:308][927]LogSlate: Window 'ProjetUnreal Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.04-09.20.38:320][927]LogWorld: UWorld::CleanupWorld for LVL_LD, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-09.20.38:328][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-09.20.38:348][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-09.20.38:358][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-09.20.38:388][927]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.04-09.20.38:388][927]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2023.12.04-09.20.38:389][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2023.12.04-09.20.38:391][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2023.12.04-09.20.38:413][927]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.12.04-09.20.38:658][928]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2023.12.04-09.20.39:412][929]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-09.20.39:629][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.12.04-09.20.39:851][929]LogSavePackage: Moving output files for package: /Game/Levels/LVL_LD
+[2023.12.04-09.20.39:852][929]LogSavePackage: Moving '../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Saved/LVL_LD15FE661D4D9C4E7B6600DC995A8E7D87.tmp' to '../../../../../_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Content/Levels/LVL_LD.umap'
+[2023.12.04-09.20.39:864][929]LogFileHelpers: Saving map 'LVL_LD' took 0.311
+[2023.12.04-09.20.39:875][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 463 ms (total: 12.6 sec)
+[2023.12.04-09.20.39:881][929]AssetCheck: New page: Asset Save: LVL_LD
+[2023.12.04-09.20.39:881][929]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_LD.LVL_LD
+[2023.12.04-09.21.57:032][512]LogEditorViewport: Clicking Background
+[2023.12.04-09.22.57:859][260]LogViewport: Scene viewport resized to 1485x539, mode Windowed.
+[2023.12.04-09.22.57:907][261]LogViewport: Scene viewport resized to 1485x531, mode Windowed.
+[2023.12.04-09.22.57:954][262]LogViewport: Scene viewport resized to 1485x515, mode Windowed.
+[2023.12.04-09.22.57:992][263]LogViewport: Scene viewport resized to 1485x514, mode Windowed.
+[2023.12.04-09.22.58:072][267]LogViewport: Scene viewport resized to 1485x510, mode Windowed.
+[2023.12.04-09.22.58:089][268]LogViewport: Scene viewport resized to 1485x506, mode Windowed.
+[2023.12.04-09.22.58:134][269]LogViewport: Scene viewport resized to 1485x505, mode Windowed.
+[2023.12.04-10.15.27:164][882]LogDerivedDataCache: C:/Users/HugoM/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.337 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 886 files in 1556 folders with total size 42 MiB.
