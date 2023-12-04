@@ -310,13 +310,6 @@
 				"D:/_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Content/CustomBP/BP_Key.uasset",
 				"D:/_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Content/Interfaces/BPI_PlayerAction.uasset",
 				"D:/_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Content/CustomBP/BP_BaseInteractable.uasset",
-				"D:/_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Content/CustomBP/SK_Character_Skeleton_03_Blueprint.uasset",
-				"D:/_Travaux/a4/ld/ProjetUnreal/Content/PolygonPirates_4_14/Content/PolygonPirates/Meshes/Environments/SM_Env_Unreal_Water.uasset",
-				"D:/_Travaux/a4/ld/ProjetUnreal/Content/CustomBP/Cube_Blueprint.uasset",
-				"D:/_Travaux/a4/ld/ProjetUnreal/Content/CustomBP/Capitaine.uasset",
-				"D:/_Travaux/a4/ld/ProjetUnreal/Content/NewControlRigBlueprint.uasset",
-				"D:/_Travaux/a4/ld/ProjetUnreal/Content/CustomBP/Squelette.uasset",
-				"D:/_Travaux/a4/ld/ProjetUnreal/Content/CustomBP/BP_Skeleton.uasset",
 				"C:/Users/HugoM/Documents/Unreal Projects/ProjetUnreal/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/HugoM/Documents/Unreal Projects/ProjetUnreal/Content/Levels/NewMap.umap",
 				"C:/Users/HugoM/Documents/Unreal Projects/ProjetUnreal/Content/Levels/LVL_Map.umap",
@@ -333,7 +326,15 @@
 				"C:/Users/HugoM/Documents/Unreal Projects/ProjetUnreal/Content/CustomBP/BP_Key.uasset",
 				"C:/Users/HugoM/Documents/Unreal Projects/ProjetUnreal/Content/CustomBP/BP_InteractableDoor.uasset",
 				"C:/Users/HugoM/Documents/Unreal Projects/ProjetUnreal/Content/CustomBP/BP_Book.uasset",
-				"C:/Users/HugoM/Documents/Unreal Projects/ProjetUnreal/Content/Widget/WB_ReadingUserUI.uasset"
+				"C:/Users/HugoM/Documents/Unreal Projects/ProjetUnreal/Content/Widget/WB_ReadingUserUI.uasset",
+				"D:/_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Content/CustomBP/BP_InteractableDoor.uasset",
+				"D:/_Travaux/a4/ld/Git/UnrealOlivier/OlivierGoatesque/ProjetUnreal/Content/CustomBP/SK_Character_Skeleton_03_Blueprint.uasset",
+				"D:/_Travaux/a4/ld/ProjetUnreal/Content/PolygonPirates_4_14/Content/PolygonPirates/Meshes/Environments/SM_Env_Unreal_Water.uasset",
+				"D:/_Travaux/a4/ld/ProjetUnreal/Content/CustomBP/Cube_Blueprint.uasset",
+				"D:/_Travaux/a4/ld/ProjetUnreal/Content/CustomBP/Capitaine.uasset",
+				"D:/_Travaux/a4/ld/ProjetUnreal/Content/NewControlRigBlueprint.uasset",
+				"D:/_Travaux/a4/ld/ProjetUnreal/Content/CustomBP/Squelette.uasset",
+				"D:/_Travaux/a4/ld/ProjetUnreal/Content/CustomBP/BP_Skeleton.uasset"
 			]
 		}
 	]
