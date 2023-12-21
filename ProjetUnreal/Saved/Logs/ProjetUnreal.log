@@ -1923,3 +1923,87 @@ UnknownFunction []
 [2023.12.21-16.15.34:868][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 415 ms (total: 3.28 sec)
 [2023.12.21-16.15.34:875][205]AssetCheck: New page: Asset Save: LVL_LD
 [2023.12.21-16.15.34:875][205]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_LD.LVL_LD
+[2023.12.21-16.25.53:192][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.12.21-16.25.53:199][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-16.25.53:274][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.12.21-16.25.53:566][968]LogSavePackage: Moving output files for package: /Game/Levels/LVL_LD
+[2023.12.21-16.25.53:568][968]LogSavePackage: Moving '../../../../../../Users/ShindarikPC/Desktop/IIM/OlivierGoatesque/ProjetUnreal/Saved/LVL_LD163A2AC24D7F7312765B0D8F4D37C82F.tmp' to '../../../../../../Users/ShindarikPC/Desktop/IIM/OlivierGoatesque/ProjetUnreal/Content/Levels/LVL_LD.umap'
+[2023.12.21-16.25.53:584][968]LogFileHelpers: Saving map 'LVL_LD' took 0.352
+[2023.12.21-16.25.53:591][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 392 ms (total: 3.68 sec)
+[2023.12.21-16.25.53:598][968]AssetCheck: New page: Asset Save: LVL_LD
+[2023.12.21-16.25.53:598][968]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_LD.LVL_LD
+[2023.12.21-16.32.43:476][353]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.12.21-16.34.38:777][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.12.21-16.34.38:784][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-16.34.38:889][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.12.21-16.34.39:182][ 22]LogSavePackage: Moving output files for package: /Game/Levels/LVL_LD
+[2023.12.21-16.34.39:185][ 22]LogSavePackage: Moving '../../../../../../Users/ShindarikPC/Desktop/IIM/OlivierGoatesque/ProjetUnreal/Saved/LVL_LD67717FFB478CACBCF9351A83455F473F.tmp' to '../../../../../../Users/ShindarikPC/Desktop/IIM/OlivierGoatesque/ProjetUnreal/Content/Levels/LVL_LD.umap'
+[2023.12.21-16.34.39:201][ 22]LogFileHelpers: Saving map 'LVL_LD' took 0.356
+[2023.12.21-16.34.39:208][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 424 ms (total: 4.10 sec)
+[2023.12.21-16.34.39:214][ 22]AssetCheck: New page: Asset Save: LVL_LD
+[2023.12.21-16.34.39:214][ 22]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_LD.LVL_LD
+[2023.12.21-16.34.53:182][394]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.12.21-16.34.53:194][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.21-16.34.53:194][394]PIE: New page: PIE session: LVL_LD (21 déc. 2023 à 18:34:53)
+[2023.12.21-16.34.53:194][394]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_LD
+[2023.12.21-16.34.53:280][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.085522s)
+[2023.12.21-16.34.53:280][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_LD.LVL_LD to /Game/Levels/UEDPIE_0_LVL_LD.LVL_LD (0.085563s)
+[2023.12.21-16.34.53:287][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.12.21-16.34.53:288][394]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.21-16.34.53:288][394]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.21-16.34.53:288][394]LogAIModule: Creating AISystem for world LVL_LD
+[2023.12.21-16.34.53:289][394]LogPlayLevel: PIE: World Init took: (0.001550s)
+[2023.12.21-16.34.53:289][394]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.12.21-16.34.53:289][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.21-16.34.53:289][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.21-16.34.53:289][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.21-16.34.53:289][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.21-16.34.53:290][394]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.21-16.34.53:290][394]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.21-16.34.53:290][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.21-16.34.53:290][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.21-16.34.53:290][394]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.21-16.34.53:290][394]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.21-16.34.53:290][394]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.21-16.34.53:292][394]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.21-16.34.53:326][394]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (High Definition Audio Device)
+[2023.12.21-16.34.53:327][394]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.21-16.34.53:327][394]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.21-16.34.53:327][394]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.21-16.34.53:328][394]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.12.21-16.34.53:328][394]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.12.21-16.34.53:330][394]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.12.21-16.34.53:330][394]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.12.21-16.34.53:331][394]LogInit: FAudioDevice initialized with ID 8.
+[2023.12.21-16.34.53:331][394]LogAudio: Display: Audio Device (ID: 8) registered with world 'LVL_LD'.
+[2023.12.21-16.34.53:331][394]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.12.21-16.34.53:383][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-16.34.53:383][394]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.21-16.34.53:450][394]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_LD.LVL_LD up for play (max tick rate 0) at 2023.12.21-17.34.53
+[2023.12.21-16.34.53:451][394]LogWorld: Bringing up level for play took: 0.068488
+[2023.12.21-16.34.53:454][394]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.12.21-16.34.53:462][394]PIE: Server logged in
+[2023.12.21-16.34.53:464][394]PIE: Play in editor total start time 0,271 seconds.
+[2023.12.21-16.34.53:529][394]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.12.21-16.36.03:544][355]LogScript: Warning: Attempted to access BP_Toiles_C_2 via property K2Node_DynamicCast_AsBP_Base_Interactable, but BP_Toiles_C_2 is not valid (pending kill or garbage)
+	BP_FirstPersonCharacter_C /Game/Levels/UEDPIE_0_LVL_LD.LVL_LD:PersistentLevel.BP_FirstPersonCharacter_C_0
+	Function /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:027A
+[2023.12.21-16.36.03:544][355]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Toiles_C_2 via property K2Node_DynamicCast_AsBP_Base_Interactable, but BP_Toiles_C_2 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2023.12.21-16.36.40:337][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-16.36.40:337][430]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_LD
+[2023.12.21-16.36.40:337][430]LogSlate: Window 'ProjetUnreal Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.21-16.36.40:344][430]LogWorld: UWorld::CleanupWorld for LVL_LD, bSessionEnded=true, bCleanupResources=true
+[2023.12.21-16.36.40:352][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-16.36.40:357][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.21-16.36.40:361][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-16.36.40:373][430]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.12.21-16.36.40:373][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.12.21-16.36.40:375][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.12.21-16.36.40:394][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.12.21-16.36.40:398][430]LogActorComponent: ReregisterComponent: (/Game/Levels/LVL_LD.LVL_LD:PersistentLevel.AmbientSound_1.AudioComponent0) Not currently registered. Aborting.
+[2023.12.21-16.36.40:398][430]LogActorComponent: ReregisterComponent: (/Game/Levels/LVL_LD.LVL_LD:PersistentLevel.AmbientSound_3.AudioComponent0) Not currently registered. Aborting.
+[2023.12.21-16.36.40:591][431]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.12.21-16.36.43:707][505]LogSlate: Window 'Message Log' being destroyed
+[2023.12.21-16.36.43:713][505]LogSlate: Window 'Message Log' being destroyed
+[2023.12.21-16.36.48:314][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.12.21-16.46.17:039][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
